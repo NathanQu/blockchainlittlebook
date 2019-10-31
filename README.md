@@ -387,3 +387,7 @@ TEE（[Trusted Execution Environment](https://en.wikipedia.org/wiki/Trusted_exec
 > /en/README.md
 >
 > /jp/README.md
+
+![](http://tohsaka.vip/wordpress/wp-content/uploads/2018/03/打赏码.png)
+
+** 如果有帮到您，欢迎打赏，谢谢！ **
